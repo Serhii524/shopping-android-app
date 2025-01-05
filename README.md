@@ -60,15 +60,7 @@ Tried everything but still not able to explore the app due to OTP errors? Don't 
 - And take your time to setup the OTP verification. :wink:
 
 
-## Star History
 
-<a href="https://star-history.com/#i-vishi/shopping-android-app&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=i-vishi/shopping-android-app&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=i-vishi/shopping-android-app&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=i-vishi/shopping-android-app&type=Date" />
- </picture>
-</a>
 
 
 ## Built With
@@ -81,4 +73,4 @@ Tried everything but still not able to explore the app due to OTP errors? Don't 
 
 ---
 
-<p align="center"> Made with :blue_heart: by <a href="https://github.com/i-vishi">Vishal Gaur</a></p>
+<p align="center"> Made with :blue_heart: by <a href="https://github.com/Serhii524">Serhii Klid</a></p>

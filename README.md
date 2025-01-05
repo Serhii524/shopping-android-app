@@ -41,7 +41,7 @@ Some other features are as following:
 
 Clone this repository and import into Android Studio
 ```
-git clone https://github.com/i-vishi/shopping-android-app.git
+git clone https://github.com/Serhii524/shopping-android-app.git
 ```
 
 ### Configuration
